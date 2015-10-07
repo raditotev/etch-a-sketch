@@ -14,6 +14,7 @@
 	float: left;
 	margin: 0px;
 	padding: 0px;
+	outline: gray 1px solid;
 }
 
 .row{
